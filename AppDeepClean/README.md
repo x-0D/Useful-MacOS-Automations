@@ -1,8 +1,8 @@
-![Demo](AppDeepClean.mp4)
+![Demo](https://github.com/x-0D/Useful-MacOS-Automations/raw/refs/heads/main/AppDeepClean/AppDeepClean.mp4)
 
 [Скачать](https://github.com/x-0D/Useful-MacOS-Automations/raw/refs/heads/main/AppDeepClean/AppDeepClean.workflow.zip)
 
-![HowToInstall](Как установить.mp4)
+![HowToInstall](https://github.com/x-0D/Useful-MacOS-Automations/raw/refs/heads/main/AppDeepClean/Как установить.mp4)
 
 Установка:
 1. Установить двойным кликом
